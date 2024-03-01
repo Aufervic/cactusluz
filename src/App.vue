@@ -1,5 +1,5 @@
 <script setup>
-  const saludo = "¡CactusLuz!"
+  const title = "¡CactusLuz!"
 </script>
 
 
@@ -9,7 +9,7 @@
   </header>
 
   <main>
-    <h1>{{saludo}}</h1>
+    <h1>{{title}}</h1>
   </main>
 </template>
 
